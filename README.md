@@ -24,3 +24,8 @@ If you use our code, please cite our work:
   keywords={Adaptation models;Analytical models;Accuracy;Computational modeling;Dynamics;Predictive models;Transformers;multi-person pose forecasting;pose forecasting;handball shot forecasting;analysis of pose forecasting models applicability},
   doi={10.1109/ICCSM63823.2024.00018}}
 ```
+
+
+### Visual results
+
+![](data/imgs/finetuned_predictions.png)
